@@ -1,0 +1,5 @@
+base Ubuntu/Debian 
+
+sudo apt install -y openjdk-x-jdk
+
+replace the x with the desired version of Java 
